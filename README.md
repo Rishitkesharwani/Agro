@@ -7,7 +7,7 @@
 - Import all the Library
 - Train the Model
 - Run the Model by running the App.py File.
-- Dataset link:- 
+- Dataset link:- https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset
 
 # Crop Price Prediciton
 - Train the Model
