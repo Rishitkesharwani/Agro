@@ -62,10 +62,9 @@
 ### Feedback and Support
 We value your feedback! If you encounter any issues or have suggestions for improvement, please reach out:
 
-- **Email:** [Your Email Address]
+- **Email:** rishitkesharwani@gmail.com
 - **Connect on Social Media:**
-  - [Twitter](#)
-  - [LinkedIn](#)
+  - [LinkedIn](# https://www.linkedin.com/in/rishit-kesharwani-9a9992252/)
   - [GitHub](#)
 
 Thank you for using the AgroMod Project. Your input helps us grow and improve!
